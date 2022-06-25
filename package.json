@@ -1,0 +1,24 @@
+{
+  "name": "dio---criando-uma-api-rest-com-node.js-e-typeorm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogopaza/DIO---Criando-uma-API-REST-com-Node.js-e-TYPEORM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogopaza/DIO---Criando-uma-API-REST-com-Node.js-e-TYPEORM/issues"
+  },
+  "homepage": "https://github.com/diogopaza/DIO---Criando-uma-API-REST-com-Node.js-e-TYPEORM#readme",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.4"
+  }
+}
